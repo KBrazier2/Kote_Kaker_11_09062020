@@ -2,6 +2,11 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
+  background-image: linear-gradient(-225deg, #77FFD2 0%, #6297DB 48%, #1EECFF 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .save-note {
@@ -16,10 +21,15 @@ html, body {
 }
 
 .note-textarea, .note-title {
-  color: #000000;
+  color: #ffffff;
   width: 100%;
   outline: none;
   border: none;
+  background-image: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .note-textarea {
@@ -43,10 +53,20 @@ html, body {
   border-bottom: none;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
+  background-image: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .list-container {
   padding-left: 0;
+  background-image: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 .list-container .list-group,
@@ -55,11 +75,13 @@ html, body {
   border-top: none;
   border-top-right-radius: 0;
   border-top-left-radius: 0;
+  
 }
 
 .list-container i {
   font-size: 1.1rem;
   cursor: pointer;
+  
 }
 
 .list-container .list-group-item {
@@ -67,4 +89,25 @@ html, body {
   border-right: none;
   padding: 20px;
   cursor: pointer;
+  background-image: linear-gradient(-225deg, #77FFD2 0%, #6297DB 48%, #1EECFF 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;  
+}
+
+.navbar {
+  background-image: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.jumbotron {
+  background-image: linear-gradient(-225deg, #FF3CAC 0%, #562B7C 52%, #2B86C5 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
