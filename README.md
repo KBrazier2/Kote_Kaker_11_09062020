@@ -59,7 +59,7 @@ N/A
 
 You may reach me at kylebrazier@gmail.com for further questions.
 
-## Link to Deployed Application
+## Link
 
 https://kote-kaker-11-09062020.herokuapp.com/
 
