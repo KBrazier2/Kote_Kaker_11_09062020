@@ -1,4 +1,4 @@
-# Kote Kaker
+# Kote Kaker 11
 
 
 [![Github Badge](https://img.shields.io/badge/GitHub-Profile-blueviolet?style=plastic&logo=appveyor)](https://github.com/KBrazier2)
@@ -20,6 +20,8 @@
 [Tests](#Tests)
 
 [Questions](#Questions)
+
+[Screenshots](#Screenshots)
 
 ## Description
 
@@ -57,4 +59,7 @@ You may reach me at kylebrazier@gmail.com for further questions.
 
 
 ## Screenshots
-![screenshot1](./Utilities/2020-08-24.png)
+![screenshot1](./assets/2020-09-10.png)
+![screenshot2](./assets/2020-09-10_1.png)
+![screenshot3](./assets/2020-09-10_2.png)
+![gifshot1](./assets/Untitled_Sep_10_2020_9_53_AM.gif)
