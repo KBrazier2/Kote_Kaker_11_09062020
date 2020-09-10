@@ -59,7 +59,7 @@ You may reach me at kylebrazier@gmail.com for further questions.
 
 
 ## Screenshots
-![screenshot1](./assets/2020-09-10.png)
-![screenshot2](./assets/2020-09-10_1.png)
-![screenshot3](./assets/2020-09-10_2.png)
-![gifshot1](./assets/Untitled_Sep_10_2020_9_53_AM.gif)
+![screenshot1](./public/assets/2020-09-10.png)
+![screenshot2](./public/assets/2020-09-10_1.png)
+![screenshot3](./public/assets/2020-09-10_2.png)
+![gifshot1](./public/assets/Untitled_Sep_10_2020_9_53_AM.gif)
